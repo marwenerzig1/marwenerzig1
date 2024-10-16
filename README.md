@@ -2,6 +2,7 @@
 <a href="https://github.com/kadermiyanyedi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Marwene;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
+## Hello, world! 👋
 Welcome, I am dedicated **DevOps** and **Software Developer** with a deep passion for creating efficient, scalable software solutions. Throughout my academic journey, I've committed myself to mastering **DevOps**,continuously striving to enhance my skills and knowledge in automation, cloud computing, and system optimization.
 
 As a diligent team player with strong **communication skills**, I believe in the power of collaboration and seamless integration. For me, DevOps is more than just a profession—it's a true source of fulfillment and joy, 
